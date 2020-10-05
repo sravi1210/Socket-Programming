@@ -1,0 +1,16 @@
+/Server/a.out
+/Client/a.out
+/Server/a.txt
+/Server/b.txt
+/Server/output_free.mp4
+/Server/output_free.txt
+/Client/output_free.mp4
+/Client/output_free.txt
+/Client/a.txt
+/Client/b.txt
+/Server/YoungS.mp4
+/Client/YoungS.mp4
+*.py
+*.cpp
+*.txt
+
